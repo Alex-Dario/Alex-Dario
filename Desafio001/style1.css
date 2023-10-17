@@ -1,0 +1,17 @@
+td,
+tr {
+    border: 1px solid;
+    text-align: center;
+}
+
+table,
+form {
+    width: 500px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+header {
+    text-align: center;
+    margin: 0 auto;
+}
